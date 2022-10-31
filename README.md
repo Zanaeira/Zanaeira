@@ -5,7 +5,7 @@ iOS Developer
 -------------
 * 🧑‍🤝‍🧑 <b>I'm looking for a full-time, permanent iOS Developer role</b>
 * 🌍 I'm based in London, UK
-* 💪 I've worked in a startup serving ~750k MAU
+* 💪 I've worked in a startup with ~6m global members
 * 🚀 I have two apps in the App Store: [Salāh Times](https://apps.apple.com/gb/app/salāh-times/id1600994680) and [Shuffler](https://apps.apple.com/gb/app/shuffler/id1608246757)
 * 🔭 I’m currently working on an app called Istikhara 😄
 * 🖋 I am fluent in Bengali and Arabic, alongside being a native English speaker
