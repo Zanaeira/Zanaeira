@@ -7,7 +7,7 @@ iOS Developer
 * 🌍 I'm based in London, UK
 * 💪 I've worked in a startup with ~6m global members
 * 🚀 I have two apps in the App Store: [Salāh Times](https://apps.apple.com/gb/app/salāh-times/id1600994680) and [Shuffler](https://apps.apple.com/gb/app/shuffler/id1608246757)
-* 🔭 I’m currently working on an app called Istikhara 😄
+* 🔭 I’m currently working on an app to teach kids (or anyone who wants to learn!) how to read Arabic script 😄
 * 🖋 I am fluent in Bengali and Arabic, alongside being a native English speaker
 * 📫 How to reach me: [Email](mailto:suhayl.ahmed@icloud.com) | [LinkedIn](https://www.linkedin.com/in/suhaylahmed/)
 
